@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello devs! I'm Guilherme Ayman Jamal Lourenço and this is my GitHub, feel free to view the codes that were created. 👋
 
 <!--
 **guilherme-jamal/guilherme-jamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

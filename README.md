@@ -16,5 +16,5 @@
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
-<code><img width="10%" src="https://logospng.org/logo-c-plus-plus/"></code>
+<code><img width="10%" src="https://www.alura.com.br/artigos/formacao-linguagem-c-plus-plus"></code>
 

@@ -15,6 +15,6 @@
 - ⚡ Fun fact: ...
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
+<code><img width="10%" src="https://logospng.org/logo-c-plus-plus/"></code>
 

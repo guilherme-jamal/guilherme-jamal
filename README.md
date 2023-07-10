@@ -1,11 +1,11 @@
 ### Hello devs! I'm Guilherme Ayman Jamal Lourenço and this is my GitHub, feel free to view the codes that were created. 👋
 
-<!--
-**guilherme-jamal/guilherme-jamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/caetanojpo)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ayman-jamal-louren%C3%A7o-22518a18a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/caetanojpo/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:caetanojpo@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<!-- 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning C#, Node.JS, C, C++, MySQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

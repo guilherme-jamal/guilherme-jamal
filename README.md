@@ -7,10 +7,11 @@
 
 <!-- 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning C#, Node.JS, C, C++, MySQL;
-<-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: when I was a kid, I wanted to study medicine, I got into electronic engineering and eventually found myself in programming.
+<!-- 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... -->
+
 
 ## Thank you for your attention!
 
